@@ -1,11 +1,38 @@
 # Introduction to Angular Codelab
 
-\In this codelab, you'll build a housing app with Angular. The completed app will feature the ability to view home listings based on user search, and view details of a housing location.
+![Angular Housing Search application preview](9yB5AM9sBgVwfTR.png)
 
-You'll build everything with Angular using Angular's powerful tooling and great browser integration.
+# Angular Housing Search
 
-Here's a preview of the finished application:
+Projeto desenvolvido durante estudos de Angular com base no codelab oficial do Angular, expandido com melhorias próprias de responsividade, UX e comportamento de busca.
 
-![Completed application - one column search results, second column search details](9yB5AM9sBgVwfTR.png)
+## Funcionalidades
 
-The step-by-step guide can be found at [https://codelabs.developers.google.com/introduction-to-angular](https://codelabs.developers.google.com/introduction-to-angular)
+- Busca dinâmica em tempo real
+- Filtro por cidade e nome
+- Comunicação entre componentes com @Input e @Output
+- Exibição dinâmica de detalhes
+- Responsividade mobile-first
+- Renderização condicional com *ngIf
+- Listagem dinâmica com *ngFor
+
+## Tecnologias
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+## Melhorias implementadas
+
+- Busca automática sem botão obrigatório
+- Reset automático da busca
+- Limpeza automática do item selecionado
+- Melhor experiência mobile
+- Ajustes responsivos com media queries
+- Reorganização do layout para mobile UX
+
+## Referência
+
+Baseado no codelab oficial do Angular:
+https://github.com/angular/introduction-to-angular
