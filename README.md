@@ -1,8 +1,6 @@
-# Introduction to Angular Codelab
+# Angular Housing Search - Introduction to Angular Codelab
 
 ![Angular Housing Search application preview](9yB5AM9sBgVwfTR.png)
-
-# Angular Housing Search
 
 Projeto desenvolvido durante estudos de Angular com base no codelab oficial do Angular, expandido com melhorias próprias de responsividade, UX e comportamento de busca.
 
